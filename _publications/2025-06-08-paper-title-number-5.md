@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "ForceFM: Enhancing Protein-Ligand Predictions through Force-Guided Flow Matching"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/forcefm
+excerpt: "A force-guided flow-matching framework for physically plausible protein-ligand structure prediction."
+date: 2025-12-01
+venue: "The Thirty-Ninth Annual Conference on Neural Information Processing Systems"
+citation: "Huanlei Guo, Song Liu, and Bingyi Jing. (2025). <i>ForceFM: Enhancing Protein-Ligand Predictions through Force-Guided Flow Matching.</i> The Thirty-Ninth Annual Conference on Neural Information Processing Systems."
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Developed a force-guided flow-matching framework that incorporates intermolecular force information into protein-ligand structure prediction, improving docking accuracy and physical plausibility.

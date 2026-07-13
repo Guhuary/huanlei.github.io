@@ -1,152 +1,126 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Huanlei Guo",
+    "label": "Ph.D. Candidate in Mathematics",
+    "email": "12231285@mail.sustech.edu.cn; ghuanlei@gmail.com",
+    "phone": "+86 18358267741",
+    "website": "https://guhuary.github.io",
+    "summary": "Ph.D. candidate at the Southern University of Science and Technology, supervised by Prof. Bingyi Jing. Research interests: AI for molecular modeling and drug discovery, geometric deep learning, and generative modeling.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Shenzhen",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Guhuary",
+        "url": "https://github.com/Guhuary"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "SLAI",
+      "position": "Intern",
+      "startDate": "Dec. 2025",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "MIL-HDU",
+      "position": "Visiting Scholar",
+      "startDate": "Jan. 2020",
+      "endDate": "Jun. 2022",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "ML-LAB-ZJUT",
+      "position": "Member",
+      "startDate": "Oct. 2019",
+      "endDate": "Jun. 2022",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Southern University of Science and Technology (SUSTech), Shenzhen",
+      "area": "Ph.D. Candidate in Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "Sep. 2022",
+      "endDate": "Jun. 2027",
       "gpa": null,
-      "courses": []
+      "courses": ["Supervised by Prof. Bingyi Jing"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Zhejiang University of Technology (ZJUT), Hangzhou",
+      "area": "B.Sc. in Information and Computing Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "Sep. 2018",
+      "endDate": "Jun. 2022",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Research Interests",
+      "keywords": ["AI for molecular modeling and drug discovery", "Geometric deep learning", "Generative modeling"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "ForceFM: Enhancing Protein-Ligand Predictions through Force-Guided Flow Matching",
+      "publisher": "The Thirty-Ninth Annual Conference on Neural Information Processing Systems",
+      "releaseDate": "2025-12-01",
+      "website": "",
+      "summary": "Huanlei Guo, Song Liu, and Bingyi Jing."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Toward Early Quality Assessment of Text-to-Image Diffusion Models",
+      "publisher": "The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "releaseDate": "2026-06-01",
+      "website": "",
+      "summary": "Huanlei Guo, Hongxin Wei, and Bingyi Jing."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Locating Transition States for Biomolecular Dynamics via Invertible Dimensionality Reduction",
+      "publisher": "Journal of Chemical Theory and Computation, 21(11): 5389-5399",
+      "releaseDate": "2025-06-03",
+      "website": "",
+      "summary": "Jianyu Yang, Huanlei Guo, et al."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Confidence Correction for Trained Graph Convolutional Networks",
+      "publisher": "Pattern Recognition, 156: 110773",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "Junqing Yuan, Huanlei Guo*, et al."
+    },
+    {
+      "name": "DiffDock-Site: A Novel Paradigm for Enhanced Protein-Ligand Predictions through Binding Site Identification",
+      "publisher": "NeurIPS 2023 Generative AI and Biology Workshop",
+      "releaseDate": "2023-12-01",
+      "website": "",
+      "summary": "Huanlei Guo, Song Liu, et al."
+    },
+    {
+      "name": "Distributed Feedback Network for Single-Image Deraining",
+      "publisher": "Information Sciences, 572: 611-626",
+      "releaseDate": "2021-01-01",
+      "website": "",
+      "summary": "Jiajun Ding, Huanlei Guo, et al."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
